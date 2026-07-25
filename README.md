@@ -12,4 +12,4 @@ Instead of standard correlational regression, this pipeline utilizes **Double Ma
 * Quantified the exact percentage shift in mortality risk per $1,000 drop in median income and per-step increase in rurality.
 
 ## Files
-* `DML_SEER_CRC.ipynb` : The complete Python pipeline (Data cleaning, Feature Engineering, DML Causal Model, and Visualizations).
+* DML_SEER_CRC.ipynb : The complete Python pipeline (Data cleaning, Feature Engineering, DML Causal Model, and Visualizations).
